@@ -2,12 +2,12 @@
 
 🚀 Aspiring engineer passionate about space exploration, carbon composites (CFRP), and machine learning.
 
-🎓 Currently pursuing my Master’s degree in Mechanical Engineering at Keio University,  
-specializing in **defect detection in CFRP** using **Finite Element Analysis** and **Graph Neural Networks**.
+🎓 Currently pursuing my Master’s degree in Mechanical Engineering at Keio University,  under the guidance of Associate Professor Mayu Muramatsu. 
+specializing in **defect detection in CFRP ** using **Finite Element Analysis** and **Graph Neural Networks** at MMC.
 
 🌍 Selected for the **Double Degree Program** at Leibniz University Hannover – heading to Germany this year.
 
-🛠️ Skilled in Python, TypeScript, Laravel, and data-driven simulation.  
+🛠️ Skilled in Python, Pytorch, TypeScript, Laravel, and data-driven simulation.  
 
 💼 Currently interning at [SABU](https://sabu.work/),inc, contributing to healthcare DX and business process outsourcing initiatives
 Worked on SaaS development during a long-term startup internship.
@@ -19,7 +19,4 @@ Worked on SaaS development during a long-term startup internship.
 🏋️ Fun fact: Training for my first Ironman — currently squatting 120kg and benching 80kg while running marathons on the side.
 
 📬 Let’s connect:  
-[LinkedIn](https://www.linkedin.com/in/keisuke58) | [Zenn](https://zenn.dev/keisuke58) | [Twitter](https://twitter.com/keisuke58)
-
----
-✨ “Science is the engine, curiosity is the fuel.”  
+[LinkedIn](https://www.linkedin.com/in/keisuke58) | [Zenn](https://zenn.dev/keisuke58) | [[Note](https://note.com/keisuke_nishioka)]
