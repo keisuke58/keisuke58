@@ -3,9 +3,9 @@
 🚀 Aspiring engineer passionate about space exploration, carbon composites (CFRP), and machine learning.
 
 🎓 Currently pursuing my Master’s degree in Mechanical Engineering at Keio University,  under the guidance of Associate Professor Mayu Muramatsu. 
-specializing in **defect detection in CFRP ** using **Finite Element Analysis** and **Graph Neural Networks** at [MMC](https://muramatsu.mech.keio.ac.jp/).
+specializing in defect detection in CFRP using Finite Element Analysis and Graph Neural Networks at [MMC](https://muramatsu.mech.keio.ac.jp/).
 
-🌍 Selected for the **Double Degree Program** at Leibniz University Hannover – heading to Germany this year.
+🌍 Selected for the Double Degree Program at Leibniz University Hannover IKM.
 
 🛠️ Skilled in Python, Pytorch, TypeScript, Laravel, and data-driven simulation.  
 
@@ -14,7 +14,7 @@ Worked on SaaS development during a long-term startup internship.
 
 🌱 Currently learning about advanced materials, machine learning, web application, gpu computing, AWS and triathlon training.
 
-📚 TOEFL iBT 76 | IELTS 6.0 | Aiming for IELTS 7.0+
+📚 TOEFL iBT 76 | IELTS 6.0 |
 
 🏋️ Fun fact: Training for my first Ironman — currently squatting 120kg and benching 80kg while running marathons on the side.
 
