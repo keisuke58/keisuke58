@@ -9,7 +9,7 @@ specializing in defect detection in CFRP using Finite Element Analysis and Graph
 
 🛠️ Skilled in Python, Pytorch, TypeScript, Laravel, and data-driven simulation.  
 
-💼 Currently interning at [SABU](https://sabu.work/),inc, contributing to healthcare DX and business process outsourcing initiatives
+💼 Internship at [SABU](https://sabu.work/),inc, contributing to healthcare DX and business process outsourcing initiatives
 Worked on SaaS development during a long-term startup internship.
 
 🌱 Currently learning about advanced materials, machine learning, web application, gpu computing, AWS and triathlon training.
